@@ -213,10 +213,11 @@ h4{
     font-family: 'Leckerli One', cursive;
     font-size: 230%;
     magrgin: -50%;
+    margin-too: -50%;
 }
 
 p{
-    margin-top: -180px;
+    margin-top: 10px;
     margin-left: 80%;
     font-size: 30%
 }
