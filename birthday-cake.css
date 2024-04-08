@@ -211,12 +211,14 @@ h4{
     text-align: center;
     margin: 300px;
     font-family: 'Leckerli One', cursive;
-    font-size: 250%;
+    font-size: 230%;
+    magrgin: -50%;
 }
 
 p{
-    margin-top: -230px;
+    margin-top: -180px;
     margin-left: 80%;
+    font-size: 30%
 }
 
 .audio-container {
